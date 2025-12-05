@@ -1,0 +1,19 @@
+# Output file:
+
+---- Log Start ----
+Worker-1 logging message 1
+Worker-2 logging message 1
+Worker-3 logging message 1
+Worker-1 logging message 2
+Worker-2 logging message 2
+Worker-3 logging message 2
+Worker-1 logging message 3
+Worker-2 logging message 3
+Worker-3 logging message 3
+Worker-1 logging message 4
+Worker-2 logging message 4
+Worker-3 logging message 4
+Worker-1 logging message 5
+Worker-2 logging message 5
+Worker-3 logging message 5
+---- Log End ----
